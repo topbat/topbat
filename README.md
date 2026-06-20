@@ -11,11 +11,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&color=3FB68B&center=true&vCenter=true&width=520&lines=Building+software+with+AI;%E7%94%A8+AI+%E6%9E%84%E5%BB%BA%E8%BD%AF%E4%BB%B6;Vanilla+JS+%C2%B7+Canvas+%C2%B7+Game+AI" alt="Building software with AI" />
 </p>
 
-<h1 align="center">你的名字 / Your Name</h1>
-<!-- 待填写：真实姓名 -->
+<h1 align="center">topbat</h1>
 
 <p align="center">
-  <sub><b>头衔 / Your Title</b>&nbsp;·&nbsp;AI Builder&nbsp;·&nbsp;<code>@topbat</code></sub>
+  <sub><b>AI Builder</b>&nbsp;·&nbsp;AI Native&nbsp;·&nbsp;AI Hero&nbsp;·&nbsp;<code>@topbat</code></sub>
 </p>
 
 <p align="center">
@@ -30,18 +29,12 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-141414?style=flat-square&logo=safari&logoColor=3FB68B" alt="Website" /></a>
+  <a href="mailto:qijun2013@gmail.com">
+    <img src="https://img.shields.io/badge/Email-141414?style=flat-square&logo=maildotru&logoColor=3FB68B" alt="Email" /></a>
   &nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter%2FX-141414?style=flat-square&logo=x&logoColor=3FB68B" alt="X" /></a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=3FB68B" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-141414?style=flat-square&logo=maildotru&logoColor=3FB68B" alt="Email" /></a>
-  <!-- 待填写：上述链接 (#) 与对应资料；发布前请替换真实 URL 或删除占位项，避免空链接 -->
+  <!-- 待补：X 主页需 @用户名（登录邮箱无法作为链接）；拿到后把此处 href="#" 换成 https://x.com/<你的用户名> -->
 </p>
 
 <p align="center"><sub>——————————————&nbsp;&nbsp;◆&nbsp;&nbsp;——————————————</sub></p>
